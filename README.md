@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Welcome, I'am Josias! 
+ 
+I’m an IT professional experienced in designing, implementing, and securing enterprise systems and networks. Skilled in troubleshooting, vendor management, and leading targeted IT projects to deliver reliable, efficient, and secure solutions.
+ 
+Please explore my labs and projects below, and feel free to connect with me on
+[LinkedIn](https://www.linkedin.com/in/josiasdelbois/) if you'd like to collaborate or learn more about my work!
 
-<!--
-**josiaslabs/Josiaslabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🏢 IT Labs:</h2>
 
-Here are some ideas to get you started:
+<b>VM Domain Controller Lab</b>
+- Configured VM with Windows Server 2022 as domain controller, enabling AD, DHCP, and dual network access.
+- [View Repository](https://github.com/josiasdelbois/VirtualBox_Domain_Controller_Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Image Place Holder](https://github.com/josiasdelbois/VirtualBox_Domain_Controller_Lab/blob/main/Asset/VirtualBox%20Domain%20Controller%20Lab%20Diagram.png)
+
+<h2>🏢 IT General Projects:</h2>
+
+<b>Wireless Signal Infrastructure Implementation</b>
+- Led cellular signal upgrade by surveying weak zones, designing booster system, and coordinating vendors and stakeholders.
+- [View Repository](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/README.md)
+
+![Antenna Project cover photo](https://github.com/josiasdelbois/josiasdelbois/blob/main/assets/Antenna%20Project%20Photo%201.1.png) 
+
+<h2>👨🏽‍🎓 Education</h2>
+
+Valencia College - Kissimmee, Florida
+Associate in Science – Cybersecurity and Network Engineering Technology, Expected 2027
+
+Florida Technical College - Kissimmee, Florida
+Associate in Science – Business Management Tech, May 2016
+
+<h2>📜 Certifications</h2> 
+
+Comptia Project+ - In progress
