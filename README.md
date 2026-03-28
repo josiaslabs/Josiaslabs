@@ -23,10 +23,10 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 <h2>👨🏽‍🎓 Education</h2>
 
-Valencia College - Kissimmee, Florida
+Western Governors University
 Associate in Science – Cybersecurity and Network Engineering Technology, Expected 2027
 
-Florida Technical College - Kissimmee, Florida
+Florida Technical College
 Associate in Science – Business Management Tech, May 2016
 
 <h2>📜 Certifications</h2> 
