@@ -21,6 +21,8 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 ![Antenna Project cover photo](https://github.com/josiasdelbois/josiasdelbois/blob/main/assets/Antenna%20Project%20Photo%201.1.png) 
 
+<h2>🛠️ Skills</h2>
+
 <h2>👨🏽‍🎓 Education</h2>
 
 Western Governors University
