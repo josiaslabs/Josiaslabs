@@ -1,4 +1,4 @@
-# 👋 Hi, I'am Josias! 
+# 👋 Hi, I'm Josias! 
  
 👨‍💻 IT Leader specializing in property systems, infrastructure resilience, and secure integrations in high-availability environments\
 🏨 as Property Systems Manager overseeing end-to-end tech ecosystems for operations, guests, and security\
@@ -38,11 +38,14 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 ## 🎓 Education
 
-**Western Governors University**  
-B.S. in Cloud & Network Engineering (AWS Track) — *Expected 2027*
+**Bachelor of Science – Cloud & Network Engineering (AWS Track)**  
+*Western Governors University* | *Salt Lake City, UT* | *Expected 2027*
 
-**Florida Technical College**  
-A.S. in Business Management & Marketing — *October 2016*
+**Associate of Science – Business Management & Marketing**  
+*Florida Technical College* | *Kissimmee, FL* | *May 2016*
 
 ## 📜 Certifications
+<img width="109" height="109" alt="image" src="https://github.com/user-attachments/assets/c43969a8-74e6-4e01-a2da-de0749eabc65" />
+<img width="109" height="109" alt="image" src="https://github.com/user-attachments/assets/269ef673-28aa-4828-9bb7-859d34ee9878" />
+
 
