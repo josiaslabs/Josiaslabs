@@ -30,11 +30,11 @@ Please explore my labs and projects below, and feel free to connect with me on
 #### Cloud, Integration & AI:
 
 ## ⚙️ Main Projects
-| 🐍 Python Projects | 🏗️ IT Infrastructure | 🔗System Integration | 🔐 Security Architecture | 
-|------------------|----------------------|--------------------------|--------------------------|
-|                  |                      |                          |                          |
-|                  |                      |                          |                          |
-|                  |                      |                          |                          |
+| 🏗️ On-Premise Infrastructure | ☁️ Cloud Architecture | 🔐 Security Architecture | 
+|------------------|----------------------|--------------------------|
+|                  |                      |                          |
+|                  |                      |                          |
+|                  |                      |                          |
 
 ## 🎓 Education
 
