@@ -45,7 +45,10 @@ Please explore my labs and projects below, and feel free to connect with me on
 *Florida Technical College* | *Kissimmee, FL* | *May 2016*
 
 ## 📜 Certifications
-<img width="109" height="109" alt="image" src="https://github.com/user-attachments/assets/c43969a8-74e6-4e01-a2da-de0749eabc65" />
-<img width="109" height="109" alt="image" src="https://github.com/user-attachments/assets/269ef673-28aa-4828-9bb7-859d34ee9878" />
-
+<p align="left">
+  <img width="109" height="109" alt="A+" src="assets/Copy of A+.png"/>
+  <img width="109" height="109" alt="Network+" src="assets/Copy of Network+.png"/>
+  <img width="109" height="109" alt="CIOS" src="assets/CompTIA IT Operations Specialist – CIOS Stackable Certification.png"/>
+  <img width="95" height="95" alt="ITIL 4" src="assets/ITIL 4 Foundation.png"/>
+</p>
 
