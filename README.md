@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Josias! 
  
-👨‍💻 IT Leader specializing in property systems, infrastructure resilience, and secure integrations in high-availability environments\
-🏨 as Property Systems Manager overseeing end-to-end tech ecosystems for operations, guests, and security\
-🛡️ Leading PSR (Property Systems Review) initiatives for compliance, standardization, and risk reduction across systems\
-🎓 Currently pursuing a B.S. in Cloud & Network Engineering (AWS Track) at Western Governors University (Expected 2027)\
-🤝 Passionate about strong teams, asset accountability, and building scalable, reliable systems\
-📌 Focus areas: Infrastructure Leadership, Systems Integration, Security Architecture & Risk Reduction
+👨‍💻 IT Systems Manager building toward Network, Cloud & Security Architecture — grounded in real-world infrastructure, compliance, and risk reduction\
+🏨 Running 24/7 IT operations across three resort properties for Marriott International — networks, vendors, compliance, and everything in between\
+🛡️ I own our Property Security Review — auditing for PCI/PII and Marriott standards compliance, confirming what should be on our network, and flagging what shouldn't\
+🔍 Also review vendor systems — verifying their technology stays on their network (not ours), and understanding how it communicates, what data it handles, and how that data is protected\
+🎓 Pursuing a B.S. in Cloud & Network Engineering (AWS Track) at Western Governors University\
+🔧 Comfortable across TCP/IP, VPNs, network segmentation, Azure, Active Directory, and Python for automation\
+📌 Focused on growing into Network & Cloud Architecture, Security Architecture, and IAM — building systems that hold up under pressure
  
 Please explore my labs and projects below, and feel free to connect with me on
 [LinkedIn](https://www.linkedin.com/in/josiasdelbois/) if you'd like to collaborate or learn more about my work!
