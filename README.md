@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Josias! 
  
-👨‍💻 IT Systems Manager building toward Network, Cloud & Security Architecture — grounded in real-world infrastructure, compliance, and risk reduction\
-🏨 Running 24/7 IT operations across three resort properties for Marriott International — networks, vendors, compliance, and everything in between\
-🛡️ I own our Property Security Review — auditing for PCI/PII and Marriott standards compliance, confirming what should be on our network, and flagging what shouldn't\
-🔍 Also review vendor systems — verifying their technology stays on their network (not ours), and understanding how it communicates, what data it handles, and how that data is protected\
+👨‍💻 IT Systems Manager building toward Network, Cloud & Security Architecture, grounded in real-world infrastructure, compliance, and risk reduction\
+🏨 Running 24/7 IT operations across three resort properties for Marriott International, covering networks, vendors, compliance, and everything in between\
+🛡️ I own our Property Security Review, auditing for PCI/PII and Marriott standards compliance, confirming what should be on our network, and flagging what shouldn't\
+🔍 I also review vendor systems, verifying their technology stays on their network rather than ours, and understanding how it communicates, what data it handles, and how that data is protected\
 🎓 Pursuing a B.S. in Cloud & Network Engineering (AWS Track) at Western Governors University\
 🔧 Comfortable across TCP/IP, VPNs, network segmentation, Azure, Active Directory, and Python for automation\
-📌 Focused on growing into Network & Cloud Architecture, Security Architecture, and IAM — building systems that hold up under pressure
+📌 Focused on growing into Network & Cloud Architecture, Security Architecture, and IAM, building systems that hold up under pressure
  
 Please explore my labs and projects below, and feel free to connect with me on
 [LinkedIn](https://www.linkedin.com/in/josiasdelbois/) if you'd like to collaborate or learn more about my work!
