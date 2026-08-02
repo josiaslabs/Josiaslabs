@@ -31,11 +31,10 @@ Please explore my labs and projects below, and feel free to connect with me on
 #### Cloud, Integration & AI:
 
 ## ⚙️ Main Projects
-| 🏗️ On-Premise Infrastructure | ☁️ Cloud Architecture | 🔐 Security Architecture | 
-|------------------|----------------------|--------------------------|
-|                  |                      |[Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange)                          |
-|                  |                      |                          |
-|                  |                      |                          |
+
+| Project | Preview |
+|---|---|
+| [Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange) | <img src="assets/secure-partner-data-exchange-diagram" width="300"/> |
 
 ## 🎓 Education
 
