@@ -33,7 +33,7 @@ Please explore my labs and projects below, and feel free to connect with me on
 ## ⚙️ Main Projects
 | 🏗️ On-Premise Infrastructure | ☁️ Cloud Architecture | 🔐 Security Architecture | 
 |------------------|----------------------|--------------------------|
-|                  |                      |                          |
+|                  |                      |[Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange)                          |
 |                  |                      |                          |
 |                  |                      |                          |
 
