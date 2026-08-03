@@ -32,8 +32,8 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 ## ⚙️ Main Projects
 
-| Project | Preview | Overview |
-|---|---|---|
+| Project | Preview |
+|---|---|
 | [Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange) | <img src="assets/secure-partner-data-exchange-diagram.png" width="300"/> |
 
 ## 🎓 Education
