@@ -34,7 +34,7 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 | Project | Preview | Overview |
 |---|---|---|
-| [Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange) | <img src="assets/secure-partner-data-exchange-diagram.png" width="300"/> | This project documents a secure file transfer pipeline between two organizations, designed around encryption at rest and in transit, with clear separation between externally hosted and internally hosted components.|
+| [Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange) | <img src="assets/secure-partner-data-exchange-diagram.png" width="300"/> |
 
 ## 🎓 Education
 
