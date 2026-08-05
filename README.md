@@ -1,4 +1,4 @@
-# 👋 Hi, I am Josias! 
+# 👋 Hi, I'm Josias! 
  
 👨‍💻 IT Systems Manager building toward Network, Cloud & Security Architecture, grounded in real-world infrastructure, compliance, and risk reduction\
 🏨 Running 24/7 IT operations across three resort properties for Marriott International, covering networks, vendors, compliance, and everything in between\
