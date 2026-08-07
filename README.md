@@ -32,9 +32,9 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 ## ⚙️ Featured Projects
 
-| Project | Preview |
-|---|---|
-| [Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange) | <img src="assets/secure-partner-data-exchange-diagram.png" width="300"/> |
+| Project | Preview | Description |
+|---|---|---|
+| [Secure Partner Data Exchange](https://github.com/josiaslabs/secure-partner-data-exchange) | <img src="assets/secure-partner-data-exchange-diagram.png" width="300"/> | Encrypted file transfer pipeline between two organizations with PGP encryption, key rotation, and automated retention.|
 
 ## 🎓 Education
 
