@@ -30,7 +30,7 @@ Please explore my labs and projects below, and feel free to connect with me on
 ![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white&style=flat)
 #### Cloud, Integration & AI:
 
-## ⚙️ Main Projects
+## ⚙️ Featured Projects
 
 | Project | Preview |
 |---|---|
