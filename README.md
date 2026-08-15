@@ -50,4 +50,5 @@ Please explore my labs and projects below, and feel free to connect with me on
   <img width="109" height="109" alt="Network+" src="assets/CompTIA Network Plus.png"/>
   <img width="109" height="109" alt="CIOS" src="assets/CompTIA IT Operations Specialist – CIOS Stackable Certification.png"/>
   <img width="95" height="95" alt="ITIL 4" src="assets/ITIL 4 Foundation.png"/>
+  <img width="90" height="95" alt="ITIL 4" src="assets/linux-essentials-certificate.png"/>
 </p>
