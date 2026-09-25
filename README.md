@@ -17,21 +17,50 @@ Please explore my labs and projects below, and feel free to connect with me on
 
 ## 💻 Tech Stack
 
-#### Automation & Version Control:
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-#### Infrastructure & Enterprise Systems:
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white&style=flat)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?logo=microsoft&logoColor=white&style=flat)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?logo=servicenow&logoColor=white&style=flat)
-![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=flat)
-#### Security & Reliability:
-![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white&style=flat)
-#### Cloud, Integration & AI:
+**Automation & Version Control:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+**Cloud Platforms:**
+
+![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-FF9900?labelColor=232F3E)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4)
+
+**Networking:**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2E4A62)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-2E4A62)
+![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-2E4A62)
+![VPN](https://img.shields.io/badge/VPN%20Configuration-2E4A62)
+
+**Security & Compliance:**
+
+![Firewalls](https://img.shields.io/badge/Firewalls-B22222)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-B22222)
+![PCI/PII Governance](https://img.shields.io/badge/PCI%2FPII%20Governance-B22222)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?logo=veeam&logoColor=white)
+
+**Identity & Endpoint Management:**
+
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4)
+
+**Operating Systems:**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+
+**ITSM & Enterprise Systems:**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 
 ## ⚙️ Featured Projects
 
