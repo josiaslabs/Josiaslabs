@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josias!
 
-🧑‍💼 IT Systems Manager building toward Cloud & Security Architecture<br>
+🧑‍💼 IT Systems Manager building toward Cloud & Security Architecture.<br>
 🏨 Leading 24/7 IT operations across three large-scale resort properties<br>
 🛡️ Own PCI/PII compliance, identity & access controls, and vendor risk governance<br>
 📋 Lead our Property Security Review, turning audit findings into remediation plans<br>
